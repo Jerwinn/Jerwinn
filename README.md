@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jerwinn
-- I'm a recent Computer Science graduate looking for a software developer role.
-- I'm interested in working with web applications whether its front or back-end.
+- 🧑‍🎓 I'm a recent Computer Science graduate looking for a software developer role.
+- 👨‍💻 I'm interested in working with web applications whether its front or back-end.
