@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @Jerwinn
-- 🌱 I’m currently learning app development for both web and mobile.
-- 📫 How to reach me ...
-
-<!---
-Jerwinn/Jerwinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm a recent Computer Science graduate looking for a software developer role.
+- I'm interested in working with web applications whether its front or back-end.
